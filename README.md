@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @nittogonzalez
-- 👀 I’m interested in video games and learning how to code
-- 🌱 I’m currently learning software developing by going through the odin project
-- 💞️ I’m looking to collaborate on not a lot for now, I am trying to familiarize myself with web development and software development
+HELLO, I'm  Nitto
+I majored in Management Information systems with a focus in Cybersecurity
 
-<!---
-nittogonzalez/nittogonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am highly motivated to dive into the world of Cybersecurity and gain real world experience
+PROJECTS
+- SIEM Project
+  - Deployed a virtual machine and configured a SIEM using Mirsoft Azure and Micorsoft Sentinel
+- Active Directory Project
+  - Deployed two virtual machines and configured one with Server2019 and the other with windows 10
+  - configured active directory and ran a powershell script to create 1000 fake users
+  - used the second virtual machine to log into the internal network and perform actions
