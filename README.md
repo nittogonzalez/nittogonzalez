@@ -2,7 +2,9 @@ HELLO, I'm  Nitto
 I majored in Management Information systems with a focus in Cybersecurity
 
 I am highly motivated to dive into the world of Cybersecurity and gain real world experience
+
 PROJECTS
+
 - SIEM Project
   - Deployed a virtual machine and configured a SIEM using Mirsoft Azure and Micorsoft Sentinel
 - Active Directory Project
